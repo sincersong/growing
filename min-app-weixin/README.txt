@@ -1,0 +1,1 @@
+This is using for geting the app-min-weixin!
